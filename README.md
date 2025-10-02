@@ -28,7 +28,7 @@ _Dont forget to leave a ⭐_
 ## Usage
 ```python
 import customtkinter
-from ctkqrcode import CTkQrCode
+from CTkQrCode import CTkQrCode
 
 root = customtkinter.CTk()
 
