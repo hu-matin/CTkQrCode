@@ -32,8 +32,8 @@ from CTkQrCode import CTkQrCode
 
 root = customtkinter.CTk()
 
-table = CTkQrCode(master=root, qr_data = 'CTkQrCode')
-table.pack(padx=20, pady=20)
+qr_code = CTkQrCode(master=root, qr_data = 'CTkQrCode')
+qr_qode.pack(padx=20, pady=20)
 
 root.mainloop()
 ```
