@@ -1,5 +1,5 @@
 import customtkinter
-from ctkqrcode import CTkQrCode
+from CTkQrCode import CTkQrCode
 
 
 def main():
@@ -26,4 +26,5 @@ def main():
     app.mainloop()
     
 if __name__ == "__main__":
+
     main()
