@@ -78,5 +78,3 @@ root.mainloop()
 - **.get_qr_border():** get current border width
 - **.get_qr_fill_color():** get current fill color
 - **.get_qr_back_color():** get current background color
-
-### Thanks for visiting! Hope it will help :)
