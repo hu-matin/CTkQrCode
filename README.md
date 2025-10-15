@@ -1,7 +1,6 @@
 # CTkQrCode
 
 **A module to generate and display QR codes using Customtkinter.**
-
 ![Screenshot](https://github.com/user-attachments/assets/895a3b61-8083-47f7-8e5d-1252d890440e)
 
 ## Features:
