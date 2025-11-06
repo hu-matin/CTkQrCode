@@ -55,8 +55,6 @@ root.mainloop()
 | pady            | internal vertical padding inside the widget (int)    |
 
 
-
-
 ## Methods
 - **.generate_qr_code():** generate and display the QR code image based on current settings  
 - <b>.configure(*args, **kwargs):</b> update widget configuration; supports QR-specific options and regenerates QR image on change  
