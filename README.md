@@ -20,7 +20,6 @@
 ```
 pip install CTkQrCode
 ```
-
 ### [<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/hu-matin/CTkQrCode?&color=white&label=Download%20Source%20Code&logo=Python&logoColor=yellow&style=for-the-badge"  width="400">](https://github.com/hu-matin/CTkQrCode/archive/refs/heads/main.zip)
 
 _Dont forget to leave a ⭐_
