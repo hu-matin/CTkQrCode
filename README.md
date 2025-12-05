@@ -17,6 +17,7 @@
 - Uses qrcode and Pillow libraries
   
 ## Installation
+
 ```
 pip install CTkQrCode
 ```
